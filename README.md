@@ -24,7 +24,9 @@ Customers order from nearby restaurants, pharmacies and supermarkets in one app;
 The interesting part is the model: running deliveries nationwide normally means one company holding all the licences and payment infrastructure — a wall for a solo founder. So SwiftCart turns the wall into the business — the companies that **already** hold those licences become the fulfilment layer, and SwiftCart licenses them the brand, the marketplace and the software. A licensing blocker became a SaaS moat.
 
 A **four-sided platform I designed and built solo** — customer, vendor, rider and admin apps, a multi-tenant backend, and the marketing site.
-🌐 [swiftcartapp.co](https://swiftcartapp.co) *(pre-launch)* · [customer](https://github.com/heykoyr/SwiftCart-customer) · [vendor](https://github.com/heykoyr/SwiftCart-vendor) · [rider](https://github.com/heykoyr/SwiftCart-rider) · [admin](https://github.com/heykoyr/SwiftCart-admin) · [site](https://github.com/heykoyr/SwiftCart-site)
+
+🌐 **[swiftcartapp.co](https://swiftcartapp.co)** *(pre-launch)* · 💻 [Marketing site — public repo](https://github.com/heykoyr/SwiftCart-site)
+🔒 The four apps — **customer · vendor · rider · admin** — are private (it's a launching product). Each carries a full case-study README; happy to walk through the code on request.
 
 ### 📸 FieldSnap — field documentation, done on site
 A mobile tool for engineers and technicians — HVAC, electrical, solar, facilities — to capture, annotate and organise their work in the field instead of scrambling for notes later. **Designed and built, live on Google Play.**
