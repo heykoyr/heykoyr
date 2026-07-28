@@ -1,7 +1,7 @@
 <h1 align="center">Koyr Studio</h1>
 
 <p align="center">
-  <b>Adekoya Oluwafemi A.</b> — product designer &amp; engineer.<br>
+  <b>Adekoya Oluwafemi</b> — Product Designer &amp; Engineer.<br>
   I design, build and lead products end to end — the strategy, the design, and the code.
 </p>
 
