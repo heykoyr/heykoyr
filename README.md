@@ -25,7 +25,7 @@ The interesting part is the model: running deliveries nationwide normally means 
 
 A **four-sided platform I designed and built solo** — customer, vendor, rider and admin apps, a multi-tenant backend, and the marketing site.
 
-🌐 **[swiftcartapp.co](https://swiftcartapp.co)** *(pre-launch)* · 💻 [Marketing site — public repo](https://github.com/heykoyr/SwiftCart-site)
+🌐 **[swiftcartapp.co](https://swiftcartapp.co)** *(pre-launch)* · 💻 [Marketing site — public repo](https://github.com/heykoyr/swiftcart-site)
 🔒 The four apps — **customer · vendor · rider · admin** — are private (it's a launching product). Each carries a full case-study README; happy to walk through the code on request.
 
 ### 📸 FieldSnap — field documentation, done on site
