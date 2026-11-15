@@ -28,8 +28,23 @@ A **four-sided platform I designed and built solo** — customer, vendor, rider 
 🌐 **[swiftcartapp.co](https://swiftcartapp.co)** *(pre-launch)* · 💻 [Marketing site — public repo](https://github.com/heykoyr/swiftcart-site)
 🔒 The four apps — **customer · vendor · rider · admin** — are private (it's a launching product). Each carries a full case-study README; happy to walk through the code on request.
 
+### 🏠 Livd: property intelligence from lived experience
+A property intelligence platform built around what residents actually experienced at a building, including why they left. The current site uses clearly labelled sample data, not real resident reviews.
+
+🌐 [livd.site](https://livd.site) · 💻 [Public repository](https://github.com/heykoyr/livd)
+
+### 💍 Marriage First: intentional matchmaking
+A marriage-first product for adults, built around shared intentions, discovery and mutual consent. The interactive product is still in development and is not a live matchmaking service.
+
+🔒 Private product repository · *In development*
+
+### 🎮 CROOKD: plan the job, play the heist
+A mobile-web heist game where players recruit a crew, plan routes on a blueprint and carry out timed missions. I designed the game and its experience, then directed its implementation.
+
+🌐 [Play CROOKD](https://crookd.app) · 🔒 Private repository
+
 ### 📸 FieldSnap — field documentation, done on site
-A mobile tool for engineers and technicians — HVAC, electrical, solar, facilities — to capture, annotate and organise their work in the field instead of scrambling for notes later. **Designed and built, live on Google Play.**
+A mobile tool for engineers and technicians — HVAC, electrical, solar, facilities — to capture, annotate and organise their work in the field instead of scrambling for notes later. **Designed and built, live on Google Play.** [Read the public case study](https://github.com/heykoyr/fieldsnap-case-study).
 
 ## Leading product design
 
@@ -43,7 +58,7 @@ A mobile tool for engineers and technicians — HVAC, electrical, solar, facilit
 
 ## Building with
 
-`React Native` · `Expo` · `TypeScript` · `Supabase` (Postgres · Row-Level Security) · `PostgreSQL` · `vanilla HTML/CSS/JS` · `Figma`
+`React Native` · `Expo` · `Next.js` · `TypeScript` · `Three.js` · `Supabase` (Postgres · Row-Level Security) · `PostgreSQL` · `vanilla HTML/CSS/JS` · `Figma`
 
 ---
 
