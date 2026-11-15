@@ -46,6 +46,16 @@ A mobile-web heist game where players recruit a crew, plan routes on a blueprint
 ### 📸 FieldSnap — field documentation, done on site
 A mobile tool for engineers and technicians — HVAC, electrical, solar, facilities — to capture, annotate and organise their work in the field instead of scrambling for notes later. **Designed and built, live on Google Play.** [Read the public case study](https://github.com/heykoyr/fieldsnap-case-study).
 
+### 🛋️ MyDecor: room-aware decorating
+A room-photo tool that finds decoration opportunities and previews products in the space. Placements are indicative, not measured.
+
+💻 [Public project and case study](https://github.com/heykoyr/mydecor)
+
+### ✉️ Email Designs: from Figma to sendable HTML
+A collection of working email design case studies, starting with Diaspora's referral campaign. Each documents rendering constraints, device tests and known limitations.
+
+💻 [Browse the email design work](https://github.com/heykoyr/email-designs)
+
 ## Leading product design
 
 **ChurchApp** and **Diaspora** — leading product design on two mobile products currently in active development, from research and flows through to a shipped design system.
